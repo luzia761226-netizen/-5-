@@ -1,0 +1,7 @@
+{
+  "name": "EduGen AI: Advanced Curriculum Quest",
+  "description": "A gamified pedagogical tool using Gemini 3 and 2.5 for massive, divergent question generation with Search and Maps grounding.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
